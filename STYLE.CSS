@@ -1,0 +1,74 @@
+H1{
+    background-color: white;
+}
+BODY{
+    background-color:white;
+}
+.student{
+    background-color: red;
+}
+#beans{
+    background-color: green;
+}
+*{
+    color-interpolation-filters: black;
+}
+h1+p{
+    color: pink;
+}
+/* div{
+    background-color: red;
+    display: flex; */
+
+
+.red{
+    background-color: red;
+    width: 200px;
+    height: 300px;
+}
+.blue{
+    background-color: blue;
+    width: 200px;
+    height: 300px;
+    margin-left: 200px;
+}
+.yellow{
+    background-color: yellow;
+    width: 200px;
+    height: 300px;
+    margin-left: 400px;
+}
+.all{
+    background-color: green;
+}
+
+.redd{
+    background-color: red;
+    width: 200px;
+    height: 300px;
+}
+.bluee{
+    background-color: blue;
+    width: 200px;
+    height: 300px;
+    margin-left: 200px;
+}
+.yelloww{
+    background-color: yellow;
+    width: 200px;
+    height: 300px;
+    margin-left: 400px;
+}
+.opposite{
+    float: right;
+    margin-top: -900px;
+}
+.redd{
+    margin-left: 1300px;
+}
+.bluee{
+    margin-left: 1100px;
+}
+.yelloww{
+    margin-left: 900px;
+}
